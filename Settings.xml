@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<EmailSettings>
+		<SMTPServer>smtp.company.com</SMTPServer>
+		<FromEmail>mailfrom@company.com</FromEmail>
+		<SupportEmail>support@company.com</SupportEmail>
+	</EmailSettings>
+	<OtherSettings>
+		<CompanyName>Company</CompanyName>
+		<SearchBase>OU=Users,DC=Comapny,DC=Com</SearchBase>
+		<MailURL>https://company.com/owa</MailURL>
+		<HelpdeskURL>https://help.company.com</HelpdeskURL>
+		<HelpdeskNumber>555-555-1212</HelpdeskNumber>
+	</OtherSettings>
+</Settings>
